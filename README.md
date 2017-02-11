@@ -1,7 +1,8 @@
 # Barometric Pressure + Temperature Sensor Adafruit BMP280
-Raspberry PI and Windows 10 IoT Core. Using Barometric Pressure + Temperature Sensor Adafruit BMP280. 
+This project is an example on how to use the Adafruit BMP280 Barometric Pressure + Temperature Sensor in Raspberry PI and Windows 10 IoT Core.
 
 ## What is this sensor?
+This sensor is great for all sorts of weather/environmental sensing.
 This sensor is used for measuring barometric pressure with ±1 hPa absolute accuraccy, and temperature with ±1.0°C accuracy. 
 Because pressure changes with altitude, and the pressure measurements are so good, you can also use it as an altimeter with  ±1 meter accuracy.
 
